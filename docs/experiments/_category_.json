@@ -1,0 +1,8 @@
+{
+  "label": "Experiments",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Experiments with different technologies to create interactive docs"
+  }
+}
