@@ -1,4 +1,4 @@
 ---
-sidebar_label: 'Docs-as-code workflow'
+sidebar_label: 'Workflow'
 sidebar_position: 3
 ---
