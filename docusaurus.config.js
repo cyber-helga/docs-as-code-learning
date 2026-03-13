@@ -83,9 +83,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Home',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Logo',
           src: 'img/pencil-icon.svg',
         },
         items: [
@@ -119,16 +119,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/olya.fedorova.520',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Telegram',
+                href: '@helga_fedorova',
               },
             ],
           },
@@ -151,6 +147,7 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+        additionalLanguages: ['powershell', 'java', 'csharp', 'php'],
       },
     }),
 };
