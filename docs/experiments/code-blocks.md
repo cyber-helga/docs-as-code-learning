@@ -7,7 +7,7 @@ sidebar_position: 2
 
 Bash example:
 
-```powershell
+```bash
 npm start
 ```
 

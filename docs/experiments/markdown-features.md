@@ -1,7 +1,7 @@
 ---
 title: 'Markdown features'
 sidebar_label: 'Markdown features'
-sidebar_position: 4
+sidebar_position: 1
 ---
 # Markdown features
 
@@ -22,3 +22,7 @@ sidebar_position: 4
 ## Quotes
 
 > Documentation is a love letter you write to your future self.
+
+## Text highlights
+
+Here is a test message with some **bold** text, some _italic_ text, and a [link](/).
