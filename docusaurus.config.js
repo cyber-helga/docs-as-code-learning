@@ -14,6 +14,11 @@ const config = {
   tagline: 'Learning docs-as-code and technical writing',
   favicon: 'img/favicon.ico',
 
+  // Mermaid support, see https://docusaurus.io/docs/markdown-features/diagrams
+markdown: {
+    mermaid: true,
+  },
+themes: ['@docusaurus/theme-mermaid'],
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
@@ -152,9 +157,4 @@ const config = {
     }),
 };
 
-export default {
-  markdown: {
-    mermaid: true,
-  },
-  themes: ['@docusaurus/theme-mermaid'],
-};
+export default config;
