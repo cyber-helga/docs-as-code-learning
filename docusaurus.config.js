@@ -127,10 +127,6 @@ themes: ['@docusaurus/theme-mermaid'],
                 label: 'Facebook',
                 href: 'https://www.facebook.com/olya.fedorova.520',
               },
-              {
-                label: 'Telegram',
-                href: '@helga_fedorova',
-              },
             ],
           },
           {
