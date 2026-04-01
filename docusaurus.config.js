@@ -34,6 +34,7 @@ themes: ['@docusaurus/theme-mermaid'],
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'cyber-helga', // Usually your GitHub org/user name.
   projectName: 'docs-as-code-learning', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
 
