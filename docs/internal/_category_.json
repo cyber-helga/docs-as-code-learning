@@ -1,0 +1,8 @@
+{
+  "label": "Internal",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Discovery phase of documentation"
+  }
+}
