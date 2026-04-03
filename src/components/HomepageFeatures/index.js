@@ -30,14 +30,6 @@ const FeatureList = [
       </>
     ),
   },
-  {
-    title: 'Internal',
-    description: (
-      <>
-        Share findings from the discovery phase to establish a solid doc base.
-      </>
-    ),
-  },
 ];
 
 function Feature({Svg, title, description}) {

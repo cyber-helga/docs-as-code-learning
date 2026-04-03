@@ -1,6 +1,6 @@
 ---
 title: 'User personas'
-sidebar_label: 'Audience'
+sidebar_label: 'User personas'
 sidebar_position: 1
 ---
 
