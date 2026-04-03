@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkmy_docs_site=globalThis.webpackChunkmy_docs_site||[]).push([[2224],{1976(e,s,h){h.r(s),h.d(s,{default:()=>c});h(6540);var i=h(1656),a=h(4848);function c(){return(0,a.jsxs)(i.A,{children:[(0,a.jsx)("h1",{children:"My React page"}),(0,a.jsx)("p",{children:"This is a React page"}),(0,a.jsx)("p",{children:"This is another header"})]})}}}]);
