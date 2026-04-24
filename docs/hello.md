@@ -1,8 +1,7 @@
 ---
-
 sidebar_label: 'Introduction'
 sidebar_position: 1
--------------------
+---
 
 # Introduction
 
@@ -20,20 +19,20 @@ It’s about writing.
 
 Technical writing is evolving. We now rely on tools to proofread, restructure, analyze, and scale our work. But the core responsibility hasn’t changed. We are still:
 
-* the source of clarity
-* the authors of the first draft
-* the bridge between technical teams and users
-* the ones who ask questions others don’t
+- the source of clarity  
+- the authors of the first draft  
+- the bridge between technical teams and users  
+- the ones who ask questions others don’t  
 
 Tools can support the process, but they don’t replace judgment, context, or intent.
 
 This website is my attempt to push further.
 
-* Docs-as-code → explored
-* AI-assisted writing → applied
-* Diagrams and visual thinking → in progress
-* Documentation audits → tested
-* Content creation → ongoing
+- Docs-as-code → explored  
+- AI-assisted writing → applied  
+- Diagrams and visual thinking → in progress  
+- Documentation audits → tested  
+- Content creation → ongoing  
 
 So what’s next?
 
