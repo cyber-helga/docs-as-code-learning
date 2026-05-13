@@ -24,5 +24,4 @@ JavaScript example with highlight:
 ```js {2}
 const x = 10
 console.log(x)
-console.log(x)
 ```
